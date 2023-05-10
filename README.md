@@ -1,5 +1,7 @@
 # Lab 8 - Starter
 
+Xinle Yu, no partner
+
 1) Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.
 
 I would run it in Github Actions. The reason is that it running it manually may limited it to one certain environment, which may not work for others. Running tests after all development delays the development process.
